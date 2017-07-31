@@ -1,3 +1,7 @@
 # myTrials
 test repository
-This contains all data to test if git works :)
+this test case contains if else block.
+if {
+  This contains all data to test if git works :)
+}
+This is in addition to the master repository
